@@ -28,3 +28,7 @@ Please consider to cite our paper when you use our dataset:
 
 
 For any quetions about the dataset please send email to Zhengmi Tang([tzm@dc.tohoku.ac.jp]), Dr. Miyazaki([tomo@tohoku.ac.jp]) or Prof. Omachi([machi@ecei.tohoku.ac.jp]).
+
+
+## Acknowledgements
+Some of our data are directly from [TextSeg dataset](https://github.com/SHI-Labs/Rethinking-Text-Segmentation). Thank you for the excellent work.
