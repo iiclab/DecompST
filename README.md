@@ -22,7 +22,7 @@ Our dataset contains:
   * For the pixel mask image, the quality of each text instances is divided into three ranks. The text perfectly masked are labeled by 1. The text which is too small to recognize or too complicated to mask are labeled by 0. Text which are partial masked or near to perfect are labeled by 3. 
   * For the text-erased image, the quality of each text instances is also divided into three ranks. The text which are perfectly erased are labeled by 1. For the erasing result of text are bad, whose labels are 0. Text which are partially erased or the result is close to perfect are labeled by 3.
 * ```text_erased``` contains text-erased images.
-* ```stroke_mask``` contains stroke-level mask of text instance. 0 means background, 255 means text.
+* ```stroke_mask``` contains stroke-level mask of text instances. 0 means background, 255 means text.
 * ```src``` contains the original images.
 
 Text instances achieve 1 in both side will be picked up as valid data (about 16000 text instances from 4585 different images).
