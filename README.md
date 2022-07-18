@@ -34,7 +34,7 @@ Text instances achieve 1 in both side will be picked up as valid data (about 160
 Please consider to cite our paper when you use our dataset:
 
 
-For any quetions about the dataset please send email to Zhengmi Tang([tzm@dc.tohoku.ac.jp]), Dr. Miyazaki([tomo@tohoku.ac.jp]) or Prof. Omachi([machi@ecei.tohoku.ac.jp]).
+For any quetions about the dataset please send email to Zhengmi Tang(tzm@dc.tohoku.ac.jp), Dr. Miyazaki(tomo@tohoku.ac.jp) or Prof. Omachi(machi@ecei.tohoku.ac.jp).
 
 
 ## Acknowledgements
