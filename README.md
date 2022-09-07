@@ -35,7 +35,12 @@ Text instances achieve 1 in both side will be picked up as valid data (about 160
 ## Citation and Contact
 
 Please consider to cite our paper when you use our dataset:
-
+@article{LBTS2022tang,
+  author = {Tang, Zhengmi and Miyazaki, Tomo and Omachi, Shinichiro},
+  journal = {arXiv preprint arXiv:2209.02397},
+  title = {A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-World Data},
+  year = {2022},
+}
 
 For any quetions about the dataset please send email to Zhengmi Tang(tzm@dc.tohoku.ac.jp), Dr. Miyazaki(tomo@tohoku.ac.jp) or Prof. Omachi(machi@ecei.tohoku.ac.jp).
 
