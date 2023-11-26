@@ -2,7 +2,7 @@
 
 This repository hosts the DecompST dataset from the following work:
 
-**A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-world Data** | [IEEE Xplore](https://ieeexplore.ieee.org/document/10299591?source=authoralert)
+**A Scene-Text Synthesis Engine Achieved Through Learning from Decomposed Real-world Data** | [IEEE Xplore](https://ieeexplore.ieee.org/document/10299591)
 
 Zhengmi Tang, Tomo Miyazaki, and Shinichiro Omachi.
 
